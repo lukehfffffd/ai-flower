@@ -29,25 +29,19 @@ The item codes below connect each statement to the scoring explanation.
 
 **Could AI be conscious, and what would we owe it?**
 
-Agreement. The first statement concerns AI today; the second concerns future systems.
-
-- **CON-1:** Some of today's AIs may have an inner experience. There could be something it feels like to be one.
+- **CON-1:** Some of today's AIs may have an inner experience; being an AI could feel like something.
 - **CON-2:** The people building future AI should take the possibility of AI suffering seriously.
 
 ### 2. Creative work
 
 **What does AI mean for creativity and creative work?**
 
-Agreement. Think about effects over the next five years.
-
-- **CRE-B:** People with ideas but none of the training will finally be able to make the things in their heads.
+- **CRE-B:** People with ideas but none of the training are finally able to make the things in their heads.
 - **CRE-H:** Making a living from art, writing or music will get harder when a machine can produce a cheap alternative in seconds.
 
 ### 3. Jobs and the economy
 
-**What will AI do to jobs and working life?**
-
-Agreement. Think about effects over the next five years.
+**What will generative and agentic AI do to jobs and working life?**
 
 - **JOB-B:** AI will take a real bite out of the boring work people currently lose their days to.
 - **JOB-H:** AI will put people out of work faster than they can find a decent way back in.
@@ -56,34 +50,26 @@ Agreement. Think about effects over the next five years.
 
 **How will AI affect our ability to work out what's true?**
 
-Agreement. Think about effects over the next five years.
-
-- **INF-B:** More people will be able to get their heads around difficult subjects without needing an expert on speed dial.
-- **INF-H:** When convincing nonsense is almost free to produce, working out what's true will become a much harder job.
+- **INF-B:** More people will be able to get their heads around difficult subjects without needing an expert.
+- **INF-H:** When convincing nonsense is almost free to produce, working out what's true becomes much harder.
 
 ### 5. The AI industry
 
 **How much do you trust the companies building AI?**
 
-Agreement. Think about the industry today.
-
-- **IND-1:** The sales pitch is several floors above what the products can actually deliver.
+- **IND-1:** The sales pitch is way above what the products actually deliver.
 - **IND-2:** If their products cause real harm, I trust AI companies to do the right thing, even when it costs them.
 
 ### 6. Existential risk
 
 **Could AI threaten humanity's survival?**
 
-Agreement. Think about possible future developments, without assuming they will happen within five years.
-
-- **EXI-1:** A future AI catastrophe could threaten humanity's survival. That's a real possibility.
-- **EXI-2:** We should put serious effort into preventing an AI catastrophe now, even if it never happens.
+- **EXI-1:** A future AI catastrophe that could threaten humanity's survival is a real possibility.
+- **EXI-2:** We should put serious effort into preventing an AI catastrophe now, even if the odds are it won't happen.
 
 ### 7. Your use of AI
 
 **How does AI fit into your own life?**
-
-Think about the last four weeks.
 
 - **USE-1:** How often have you chosen to use an AI tool? Never · Less than weekly · Weekly · Several days a week · Daily or almost daily · Not sure / skip.
 - **USE-2:** Has a course, school or workplace expected you to use AI, whether you wanted to or not? No · Yes · Not sure / skip.
@@ -92,43 +78,33 @@ Think about the last four weeks.
 
 **What will AI change in healthcare?**
 
-Agreement. Think about effects over the next five years.
-
-- **MED-B:** AI will help clinicians catch illnesses earlier, while there's still more they can do about them.
+- **MED-B:** AI will help clinicians catch illnesses earlier.
 - **MED-H:** Patients will be seriously hurt because an AI got something wrong.
 
 ### 9. Training data and consent
 
 **What say should people have when their work is used to train AI?**
 
-Agreement. What should be acceptable, whatever the law currently says?
-
 - **DAT-1:** If your work is going into an AI training set, you should get a real say in the matter.
-- **DAT-2:** Some training on publicly available material is fair enough without asking every person who contributed to it.
+- **DAT-2:** Training on publicly available material is fair enough without asking every person who contributed to it.
 
 ### 10. Learning and teaching
 
 **What will AI mean for how students learn?**
 
-Agreement. Think about effects over the next five years.
-
-- **EDU-B:** Stuck at eleven at night? AI will give learners useful explanations and feedback when there's nobody around to ask.
+- **EDU-B:** AI gives learners useful explanations and feedback when there's nobody around to ask.
 - **EDU-H:** Students will get very good at producing the answer without doing the thinking they were supposed to learn from.
 
-### 11. Regulation and oversight
+### 11. Regulation and oversight for learners
 
 **What rules should apply to AI in education?**
 
-Agreement. Think about rules you would support for education.
-
-- **REG-1:** Teachers and students should have room to try AI on low-stakes tasks without getting permission for every little experiment.
-- **REG-2:** If AI is going to help decide a student's future, someone independent should check it before it gets that power.
+- **REG-1:** Teachers and students should have room to try AI on low-stakes tasks without getting permission for every experiment.
+- **REG-2:** If AI is going to help decide a student's future, someone human and independent should check what is being decided and how.
 
 ### 12. Artificial general intelligence
 
 **Will we build AI that can do most intellectual tasks a human can?**
-
-Agreement. Here, AGI means AI able to perform most intellectual tasks that humans can perform.
 
 - **AGI-1:** Within five years, we'll probably have AI that can handle most intellectual tasks a human can.
 - **AGI-2:** We could miss AGI entirely and still end up with specialised tools that turn society upside down.
@@ -137,16 +113,12 @@ Agreement. Here, AGI means AI able to perform most intellectual tasks that human
 
 **Who gains from AI, and who holds the power?**
 
-Agreement. Think about effects over the next five years.
-
 - **DIS-B:** People who could never afford expert help will finally get access to something useful.
 - **DIS-H:** A handful of companies will end up with even more control over how the rest of us earn a living.
 
 ### 14. The next five years
 
 **How much will AI change things over the next five years?**
-
-Amount of change. Put aside whether you like the prospect. How much changes?
 
 - **CHG-P:** Your own learning, teaching or working day: how much will AI have changed it?
 - **CHG-E:** The way schools, colleges and universities run: how much will AI have changed it?
@@ -156,16 +128,10 @@ Amount of change. Put aside whether you like the prospect. How much changes?
 
 **How do AI's environmental costs and benefits add up?**
 
-Agreement. Think about effects over the next five years.
-
 - **ENV-B:** AI will help us find ways to cut environmental damage that we wouldn't have found without it.
 - **ENV-H:** Keeping AI running will put a serious strain on energy and water supplies.
 
 ## Final reflection: where does all that leave you?
-
-You might see both sides and know exactly where you stand. You might feel pulled in opposite directions. How does it feel to you?
-
-Reflection format. Think about your overall reaction to AI today.
 
 - **FEEL-M:** How much does AI leave you with a mixture of positive and negative feelings?
 - **FEEL-C:** How much do those feelings pull you in opposite directions?

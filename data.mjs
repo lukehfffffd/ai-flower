@@ -3,11 +3,11 @@ export default [
     "id": 1,
     "title": "AI consciousness",
     "prompt": "Could AI be conscious, and what would we owe it?",
-    "intro": "Agreement. The first statement concerns AI today; the second concerns future systems.",
+    "intro": "",
     "items": [
       {
         "id": "CON-1",
-        "text": "Some of today's AIs may have an inner experience. There could be something it feels like to be one.",
+        "text": "Some of today's AIs may have an inner experience; being an AI could feel like something.",
         "kind": "agreement"
       },
       {
@@ -21,11 +21,11 @@ export default [
     "id": 2,
     "title": "Creative work",
     "prompt": "What does AI mean for creativity and creative work?",
-    "intro": "Agreement. Think about effects over the next five years.",
+    "intro": "",
     "items": [
       {
         "id": "CRE-B",
-        "text": "People with ideas but none of the training will finally be able to make the things in their heads.",
+        "text": "People with ideas but none of the training are finally able to make the things in their heads.",
         "kind": "agreement"
       },
       {
@@ -38,8 +38,8 @@ export default [
   {
     "id": 3,
     "title": "Jobs and the economy",
-    "prompt": "What will AI do to jobs and working life?",
-    "intro": "Agreement. Think about effects over the next five years.",
+    "prompt": "What will generative and agentic AI do to jobs and working life?",
+    "intro": "",
     "items": [
       {
         "id": "JOB-B",
@@ -57,16 +57,16 @@ export default [
     "id": 4,
     "title": "Information and truth",
     "prompt": "How will AI affect our ability to work out what's true?",
-    "intro": "Agreement. Think about effects over the next five years.",
+    "intro": "",
     "items": [
       {
         "id": "INF-B",
-        "text": "More people will be able to get their heads around difficult subjects without needing an expert on speed dial.",
+        "text": "More people will be able to get their heads around difficult subjects without needing an expert.",
         "kind": "agreement"
       },
       {
         "id": "INF-H",
-        "text": "When convincing nonsense is almost free to produce, working out what's true will become a much harder job.",
+        "text": "When convincing nonsense is almost free to produce, working out what's true becomes much harder.",
         "kind": "agreement"
       }
     ]
@@ -75,11 +75,11 @@ export default [
     "id": 5,
     "title": "The AI industry",
     "prompt": "How much do you trust the companies building AI?",
-    "intro": "Agreement. Think about the industry today.",
+    "intro": "",
     "items": [
       {
         "id": "IND-1",
-        "text": "The sales pitch is several floors above what the products can actually deliver.",
+        "text": "The sales pitch is way above what the products actually deliver.",
         "kind": "agreement"
       },
       {
@@ -93,16 +93,16 @@ export default [
     "id": 6,
     "title": "Existential risk",
     "prompt": "Could AI threaten humanity's survival?",
-    "intro": "Agreement. Think about possible future developments, without assuming they will happen within five years.",
+    "intro": "",
     "items": [
       {
         "id": "EXI-1",
-        "text": "A future AI catastrophe could threaten humanity's survival. That's a real possibility.",
+        "text": "A future AI catastrophe that could threaten humanity's survival is a real possibility.",
         "kind": "agreement"
       },
       {
         "id": "EXI-2",
-        "text": "We should put serious effort into preventing an AI catastrophe now, even if it never happens.",
+        "text": "We should put serious effort into preventing an AI catastrophe now, even if the odds are it won't happen.",
         "kind": "agreement"
       }
     ]
@@ -111,7 +111,7 @@ export default [
     "id": 7,
     "title": "Your use of AI",
     "prompt": "How does AI fit into your own life?",
-    "intro": "Think about the last four weeks.",
+    "intro": "",
     "items": [
       {
         "id": "USE-1",
@@ -129,11 +129,11 @@ export default [
     "id": 8,
     "title": "Healthcare",
     "prompt": "What will AI change in healthcare?",
-    "intro": "Agreement. Think about effects over the next five years.",
+    "intro": "",
     "items": [
       {
         "id": "MED-B",
-        "text": "AI will help clinicians catch illnesses earlier, while there's still more they can do about them.",
+        "text": "AI will help clinicians catch illnesses earlier.",
         "kind": "agreement"
       },
       {
@@ -147,7 +147,7 @@ export default [
     "id": 9,
     "title": "Training data and consent",
     "prompt": "What say should people have when their work is used to train AI?",
-    "intro": "Agreement. What should be acceptable, whatever the law currently says?",
+    "intro": "",
     "items": [
       {
         "id": "DAT-1",
@@ -156,7 +156,7 @@ export default [
       },
       {
         "id": "DAT-2",
-        "text": "Some training on publicly available material is fair enough without asking every person who contributed to it.",
+        "text": "Training on publicly available material is fair enough without asking every person who contributed to it.",
         "kind": "agreement"
       }
     ]
@@ -165,11 +165,11 @@ export default [
     "id": 10,
     "title": "Learning and teaching",
     "prompt": "What will AI mean for how students learn?",
-    "intro": "Agreement. Think about effects over the next five years.",
+    "intro": "",
     "items": [
       {
         "id": "EDU-B",
-        "text": "Stuck at eleven at night? AI will give learners useful explanations and feedback when there's nobody around to ask.",
+        "text": "AI gives learners useful explanations and feedback when there's nobody around to ask.",
         "kind": "agreement"
       },
       {
@@ -181,18 +181,18 @@ export default [
   },
   {
     "id": 11,
-    "title": "Regulation and oversight",
+    "title": "Regulation and oversight for learners",
     "prompt": "What rules should apply to AI in education?",
-    "intro": "Agreement. Think about rules you would support for education.",
+    "intro": "",
     "items": [
       {
         "id": "REG-1",
-        "text": "Teachers and students should have room to try AI on low-stakes tasks without getting permission for every little experiment.",
+        "text": "Teachers and students should have room to try AI on low-stakes tasks without getting permission for every experiment.",
         "kind": "agreement"
       },
       {
         "id": "REG-2",
-        "text": "If AI is going to help decide a student's future, someone independent should check it before it gets that power.",
+        "text": "If AI is going to help decide a student's future, someone human and independent should check what is being decided and how.",
         "kind": "agreement"
       }
     ]
@@ -201,7 +201,7 @@ export default [
     "id": 12,
     "title": "Artificial general intelligence",
     "prompt": "Will we build AI that can do most intellectual tasks a human can?",
-    "intro": "Agreement. Here, AGI means AI able to perform most intellectual tasks that humans can perform.",
+    "intro": "",
     "items": [
       {
         "id": "AGI-1",
@@ -219,7 +219,7 @@ export default [
     "id": 13,
     "title": "Who benefits?",
     "prompt": "Who gains from AI, and who holds the power?",
-    "intro": "Agreement. Think about effects over the next five years.",
+    "intro": "",
     "items": [
       {
         "id": "DIS-B",
@@ -237,7 +237,7 @@ export default [
     "id": 14,
     "title": "The next five years",
     "prompt": "How much will AI change things over the next five years?",
-    "intro": "Amount of change. Put aside whether you like the prospect. How much changes?",
+    "intro": "",
     "items": [
       {
         "id": "CHG-P",
@@ -260,7 +260,7 @@ export default [
     "id": 15,
     "title": "The environment",
     "prompt": "How do AI's environmental costs and benefits add up?",
-    "intro": "Agreement. Think about effects over the next five years.",
+    "intro": "",
     "items": [
       {
         "id": "ENV-B",
@@ -278,7 +278,7 @@ export default [
     "id": 16,
     "title": "Holding both sides",
     "prompt": "Where does all that leave you?",
-    "intro": "You might see both sides and know exactly where you stand. You might feel pulled in opposite directions. Think about your overall reaction to AI today.",
+    "intro": "",
     "items": [
       {
         "id": "FEEL-M",
